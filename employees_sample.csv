@@ -1,0 +1,3 @@
+FirstName,LastName,SamAccountName,UserPrincipalName,Department,Title,OU
+James,Smith,jsmith,jsmith@corp.local,Marketing,Marketing Director,"OU=Marketing,DC=corp,DC=local"
+Emily,Clark,eclark,eclark@corp.local,HR,HR Director,"OU=HR Department,DC=corp,DC=local"
